@@ -1,3 +1,4 @@
 # Demo 2
 
-## Turn a Demo 2 folder to a git repository
+## Git init
+     Turn a Practice-Repo 2 folder to a git repository then we can use git command on it
